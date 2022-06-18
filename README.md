@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings, human 🖖
 
 I'm Luke (he/him), a UX researcher/designer/developer with a special fondness for chickens 🐔 and squeezeboxes 🪗. You can see my UX portfolio at [lukehillman.net](https://lukehillman.net), and contact me via methods described there.
 
