@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Luke (he/him), a UX researcher/designer/developer with a special fondness for chickens 🐔 and squeezeboxes 🪗. You can see my UX portfolio at [lukehillman.net](https://lukehillman.net), and contact me via methods described there.
+
 <!--
 **lshillman/lshillman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
