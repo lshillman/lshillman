@@ -1,6 +1,8 @@
 ### Greetings, human 🖖
 
-I'm Luke (he/him), a UX researcher/designer/developer with a special fondness for chickens 🐔 and squeezeboxes 🪗. You can see my UX portfolio at [lukehillman.net](https://lukehillman.net), and contact me via methods described there.
+I'm Luke (he/him), a UX designer/researcher in the SF Bay Area. I'm the primary evil behind [Anglo Piano](https://anglopiano.com) (a tool for concertina players), as well as a few prototyping libraries for UX folks. You can see my UX portfolio at [lukehillman.net](https://lukehillman.net), and contact me via methods described there or in the sidebar.
+
+If you're looking for a UX person with experience building UX teams and processes from the ground up, I'd love to chat!
 
 <!--
 **lshillman/lshillman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
